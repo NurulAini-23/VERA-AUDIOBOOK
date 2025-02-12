@@ -1,0 +1,3 @@
+git clone https://github.com/yourusername/vera-fm.git
+cd vera-fm
+npm install
