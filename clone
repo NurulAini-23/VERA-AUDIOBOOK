@@ -1,0 +1,19 @@
+/vera-fm
+ ├── /src
+ │   ├── /components
+ │   │   ├── LanguageSwitcher.js
+ │   │   ├── AudiobookList.js
+ │   │   ├── Chatbot.js
+ │   ├── /screens
+ │   │   ├── HomeScreen.js
+ │   │   ├── PlayerScreen.js
+ │   │   ├── SettingsScreen.js
+ │   ├── /utils
+ │   │   ├── firebaseConfig.js
+ │   │   ├── textToSpeech.js
+ ├── App.js
+ ├── package.json
+ ├── firebase.json
+ ├── .gitignore
+ ├── README.md
+
